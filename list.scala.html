@@ -1,0 +1,65 @@
+@(banktransacties: List[BankCSV], page:Int, request: Http.RequestHeader, lastpageNumber:Int, pageSize:Int)
+@main("Welkom bij Play") {
+
+<ul id="banktransacties"></ul>
+	
+<div class="pagination" role="navigation" aria-label="pagination">
+    @if(page == 1){
+               <a class="pagination-previous">Vorige</a>
+            } else {
+  	       <a href="@routes.BankController.list(page-1)" class="pagination-previous">Vorige</a>
+            }
+     @if(page < lastpageNumber){
+               <a href="@routes.BankController.list(page+1)" class="pagination-next">Volgende</a>
+            } else {
+               <a class="pagination-next">Volgende</a>
+            }
+  <ul class="pagination-list">
+    <li>
+      <a href="@routes.BankController.list(1)" class="pagination-link" aria-label="Goto page 1">1</a>
+    </li>
+    <li>
+      <span class="pagination-ellipsis">&hellip;</span>
+    </li>
+    <li>
+      @if(page > 1){   
+      <a href="@routes.BankController.list(page-1)" class="pagination-link" aria-label="Goto page 45">@(page-1)</a>
+      }
+    </li>
+    <li>
+      <a href="@routes.BankController.list(page)" class="pagination-link is-current" aria-label="Page 46" aria-current="page">@page</a>
+    </li>
+    <li>
+      @if(page != lastpageNumber){
+      <a href="@routes.BankController.list(page + 1)" class="pagination-link" aria-label="Goto page 47">@(page + 1)</a>
+      }
+    </li>
+    <li>
+      <span class="pagination-ellipsis">&hellip;</span>
+    </li>
+    <li>
+      <a href="@routes.BankController.list(lastpageNumber)" class="pagination-link" aria-label="Goto page 86">@lastpageNumber</a>
+    </li>
+  </ul>
+</div>
+
+<table class="table is-striped">
+   <tr>
+    <th>Datum</th>
+    <th>Naam</th> 
+    <th>Omschrijving</th>
+    <th>Af/Bij</th>
+    <th>Bedrag</th>
+  </tr>
+   @for(banktrn <- banktransacties){
+      <tr>
+          <td>@banktrn.getDatum()</td>
+	  <td>@banktrn.getNaam()</td>
+          <td>@banktrn.getOmschrijving()</td>
+	  <td style="color:red">@banktrn.getAfbij()</td>
+	  <td style="text-align:right;">@banktrn.getBedrag()</td>
+      </tr>
+    }
+</table>
+}
+
