@@ -1,0 +1,790 @@
+{
+  gsABCurve: 'AB-Curve',
+  gsABline: 'AB-lijn',
+  gsAbout: 'Over...',
+  gsActionHasBeenCancelled: 'Actie geannuleerd',
+  gsActual: 'Actueel',
+  gsAgressiveness: 'Agressiviteit',
+  gsAreYouSure: 'Weet u het zeker?',
+  gsArea: 'Oppervlakte',
+  gsAutoSteerConfiguration: 'Autostuur Configuratie',
+  gsAutoSteerPort: 'AutoSteer Port',
+  gsBasedOnField: 'Gebaseerd op veld:',
+  gsBoundary: 'Perceelgrens',
+  gsBoundaryLineFilesAreCorrupt: 'Perceelgrens lijn is corrupt',
+  gsButFieldIsLoaded: 'maar veld is geladen',
+  gsCentimeters: 'Centimeters',
+  gsChooseADifferentField: 'Kies een ander perceel',
+  gsChooseADifferentName: 'Kies een andere naam',
+  gsChooseBuildDifferentone: 'Kies of maak een ander',
+  gsCloseFieldFirst: 'Sluit eerst perceel',
+  gsColors: 'Kleuren',
+  gsCompletelyDeleteBoundary: 'Verwijder de hele perceelgrens',
+  gsContourFileIsCorrupt: 'Contour bestand corrupt',
+  gsContourOn: 'Contour Aan',
+  gsCouldntGenerateValidPath: 'Geen juist pad',
+  gsCreateABoundaryFirst: 'Maak eerst een perceelgrens',
+  gsCreateNewField: 'Maak nieuw perceel',
+  gsCurrent: 'Huidig (A)',
+  gsCurrentSensorValueLabel: 'Huidig (A)',
+  gsCurveLineFileIsCorrupt: 'AB Curve lijn corrupt',
+  gsCurveNotOn: 'AB Curve niet ingeschakeld',
+  gsDeleteAllContoursAndSections: 'Verwijder alle secties en contouren',
+  gsDeleteAppliedArea: 'Verwijder bewerkte oppervlakte',
+  gsDeleteContourPaths: 'Verwijder contour-paden',
+  gsDeleteForSure: 'Zeker verwijderen?',
+  gsDirectories: 'Mappen',
+  gsDirectoryExists: 'Map bestaat',
+  gsDriveThru: 'Erdoor rijden',
+  gsDriving: 'Rijden',
+  gsEast: 'Oost',
+  gsEditABCurve: 'Aanpassen AB-curve',
+  gsEditABLine: 'Aanpassen AB-lijn',
+  gsEncoderCounts: 'Stappen',
+  gsEnterCoordinatesForSimulator: 'Voer simulator-coördinaten in',
+  gsEnterFieldName: 'Voer perceelnaam in',
+  gsEnterSimCoords: 'Voer sim-coörd. in',
+  gsError: 'Fout',
+  gsErrorreadingKML: 'Fout bij lezen KML',
+  gsFieldFileIsCorrupt: 'Perceel bestand is corrupt',
+  gsFieldIsOpen: 'Perceel is geopend',
+  gsFieldNotOpen: 'Geen perceel geopend',
+  gsFileError: 'Bestandfout',
+  gsFlagFileIsCorrupt: 'POI bestand corrupt',
+  gsForNow: 'Tijdelijk',
+  gsHeadland: 'Kopakker',
+  gsHeadlandForm: 'Maak / Wijzig Kopakker',
+  gsHelp: 'Help',
+  gsInches: 'inch',
+  gsInner: 'Binnenste',
+  gsKMH: 'km/u',
+  gsLanguage: 'Taal',
+  gsMPH: 'mijl/u',
+  gsMachinePort: 'Machine besturing poort',
+  gsMakeBoundaryContours: 'Maak perceelgrens contour',
+  gsManual: 'Manueel',
+  gsMeters: 'Meter',
+  gsMissingABLinesFile: 'AB Lijn bestand ontbreekt',
+  gsMissingBoundaryFile: 'Perceelgrens bestand ontbreekt',
+  gsMissingContourFile: 'Contour bestand ontbreekt',
+  gsMissingFlagsFile: 'POI-Bestand ontbreekt',
+  gsMissingSectionFile: 'Secties bestand ontbreekt',
+  gsN_East: 'NoordOost',
+  gsN_West: 'NoordWest',
+  gsNew: 'Nieuw',
+  gsNoABLineActive: 'Geen AB lijn actief',
+  gsNoBoundary: 'Geen perceelgrens',
+  gsNoFieldsFound: 'Geen percelen gevonden',
+  gsNoGuidanceLines: 'Geen geleidingslijnen',
+  gsNone: 'NA',
+  gsNoneUsed: 'Niet gebruikt',
+  gsNorth: 'Noord',
+  gsNothingDeleted: 'Niets verwijderd',
+  gsOffset: 'Verschuiving',
+  gsOffsetFix: 'FIX verschuiving',
+  gsOpen: 'Open',
+  gsOuter: 'Buitenste',
+  gsOvershootReduction: 'Reduceer over-de-lijn reactie',
+  gsPass: 'Werkgang #',
+  gsPasses: 'Werkgangen',
+  gsPause: 'Pauze',
+  gsPleaseEnterABLine: 'Volg AB lijn aub',
+  gsPressureSensorValueLabel: 'Bar',
+  gsProblemMakingPath: 'Probleem tijdens het maken van pad',
+  gsProgramWillExitPleaseRestart: 'Programma word afgesloten, start opnieuw',
+  gsReallyResetEverything: 'Alles terugzetten naar defaults',
+  gsRecord: 'Registreren',
+  gsRecordedPathFileIsCorrupt: 'Opgenomen-pad bestand corrupt',
+  gsResetAll: 'Zet alles terug',
+  gsResetAllForSure: 'Weet u het zeker?',
+  gsResume: 'Hervat',
+  gsS_East: 'ZuidOost',
+  gsS_West: 'ZuidWest',
+  gsSaveAndReturn: 'Opslaan en terug',
+  gsSaveAs: 'Opslaan als',
+  gsSentToMachineModule: 'Verstuur naar machine-besturing',
+  gsSetPoint: 'Setpunt',
+  gsShiftGPSPosition: 'Verschuif GPS Positie (cm)',
+  gsSimulatorOn: 'Simulator Aan',
+  gsSmoothABCurve: 'AB-curve Glad strijken',
+  gsSort: 'Sorteer',
+  gsSouth: 'Zuid',
+  gsSpacing: 'Afstand (cm)',
+  gsStartDeleteABoundary: 'Start of verwijder perceelgrens',
+  gsStartNewField: 'Start nieuw perceel',
+  gsSteerChart: 'Stuur grafiek',
+  gsStopRecordPauseBoundary: 'Stop opnemen Pauzeer perceelgrens',
+  gsToFile: 'Naar bestand',
+  gsTopFieldView: 'Bovenaanzicht Perceel',
+  gsTramLines: 'Spuitpaden',
+  gsTurnABCurveOn: 'Schakel AB Curve in',
+  gsTurnOnContourOrMakeABLine: 'Schakel Contour of AB lijn in',
+  gsUseSelected: 'gebruik geselecteerde',
+  gsWebCam: 'WebCam',
+  gsWest: 'West',
+  h_btn2D: '2D View Button.',
+  h_btn3D: '3D View Button.',
+  h_btnABDraw: 'AB Draw Button\n' +
+    '\n' +
+    'ABDraw only is available with a boundary created. It brings up a new form to click on the perimeter to create Lines, Curves, and a full perimeter guidance line. All lines can be named, deleted, and moved.  Handy for seeing all the guidance lines created.',
+  h_btnABLine: 'ABLine Button\n' +
+    '\n' +
+    'ABLine guidance is repeating straight parallel lines across the field. Pushing the button enable AB guidance if a line exists, or if none, brings up the create/edit form where lines can be created either by 2 points with a line intersecting both or a single point and direction or heading. Lines to the right count positive upward and lines to the left are counted up as negative. ',
+  h_btnAutoSteer: 'Auto Steer Button\n' +
+    '\n' +
+    'Turns on and off Auto Steer steering control. You must have an active guidance line set. Pressing UTurn button can also turn on AutoSteer. In Config/Guidance you can set features and button function.',
+  h_btnAutoSteerConfig: 'AutoSteer Angle and Settings Button\n' +
+    '\n' +
+    'Display Steer Angles and Configure AutoSteer settings',
+  h_btnAutoYouTurn: 'U Turn Button\n' +
+    '\n' +
+    'If guidance line is available you can auto turn around at the headland. You can set distance from edge of field to start turning, the diameter and type of turn. Pressing this button also enables autosteer and U Turn if both are off.',
+  h_btnChangeMappingColor: 'Change Mapping Color Button\n' +
+    '\n' +
+    'Brings up the color picker to choose a color to draw where you have applied. You can change as often as you like, but you need to travel a ways before the color changes, or turn off and on sections then the color change will be immediate.',
+  h_btnConfig: 'Main Configuration Button\n' +
+    '\n' +
+    'Most of the settings are here. As you make changes they are automatically saved. Careful though as there is no cancel.',
+  h_btnContour: 'Contour Button\n' +
+    '\n' +
+    'To be able to follow guidance beside your last pass. If ABLine and ABCurve are on, you can turn on and off Contour while one of those functions are still on switching between them.',
+  h_btnCurve: 'Curve Guidance Button\n' +
+    '\n' +
+    'Curve guidance allows you to follow any shape in lines repeating across the field. The lines are like contour lines where the last pass follows the curvature of the previous, but any variations made are not carried to the next line. Pressing the button brings up the Curve Creation/Edit form or if a curve line exists it brings that up. Pressing it again allows you to copy/edit/create more lines.',
+  h_btnCycleLines: 'Cycle Through Lines Button\n' +
+    '\n' +
+    'Allows you to cycle or step through existing lines of the mode you currently have selected. Cycle all ABLines or all Curve Lines available. Disabled if no lines are made.',
+  h_btnDayNightMode: 'Day or Night Colors Button.',
+  h_btnDistanceArea: 'Distance and Area Button\n' +
+    '\n' +
+    'Shows user distance travelled and accumulated area marked. Touch the digits to reset to zero. Will be remembered when exiting the program and starting again',
+  h_btnEditAB: 'Edit Guidance Line Button\n' +
+    '\n' +
+    'If there is an active guidance line available to edit, this will bring up the form to edit the line. It is the same button for either curve or line and brings up the correct form depending on which one you are using at the time. To copy or create new guidance lines press the ABLine or AB Curve button.',
+  h_btnFlag: 'Flag Mark Button\n' +
+    '\n' +
+    'Make a flag mark on the field surface. You can right click or long push to bring up a small menu to select either red green or yellow colored flags. Creating a flag brings up an edit box to allow you to add notes, it also shows what number flag was made.',
+  h_btnFreeDrive: 'Free Drive Button\n' +
+    '\n' +
+    "Allows you to test the autosteer hardware manually. Control the autosteer even if we don't have a line, drive straight.\n" +
+    'We can change the angle with the arrows.',
+  h_btnFreeDriveZero: 'Drive Steer Angle Zero\n' +
+    '\n' +
+    'Set steer angle to zero, or if it is zero sets angle to plus 5. Good for testing the steer response.',
+  h_btnHeadlandOnOff: 'Headland On Off Button\n' +
+    '\n' +
+    'Once a headland is created you can turn the headland on and off with this button. When off, section control no longer stops at headland. You can disable section control turning off at the headland in the headland create/edit form from the field menu. ',
+  h_btnHydLift: 'Hydraulic Lift On Off Button\n' +
+    '\n' +
+    'Once a headland is active, and headland control is on, you can also turn on tool lift control to raise the tool when entering the headland and lower it again just before leaving it to the work area. This button is only visible with a headland created and on.',
+  h_btnLockToContour: 'Lock to Line\n' +
+    '\n' +
+    'Locks to current contour line till you get to the end of it. Ignores all other lines.',
+  h_btnManualOffOn: 'Manual Section Control Button\n' +
+    '\n' +
+    'To turn sections off and on manually. No section control is performed, does not matter what is currently applied or not, inside or outside boundaries.',
+  h_btnN2D: 'Pointing North and Flat 2D view',
+  h_btnN3D: 'Pointing North and Flat 3D view',
+  h_btnRowWidthSkips: 'U Turn Row Skips\n\nSelect how many passes to skip when using U Turn. ',
+  h_btnSectionOffAutoOn: 'Auto Section Control Off On Button\n' +
+    '\n' +
+    'Automatic section control turns sections on if area not applied and off if area already applied. It will turn off outside of boundaries. You can set how early or how late the sections are controlled in Config/Sections',
+  h_btnSnapToPivot: 'Snap Line to Pivot Button\n' +
+    '\n' +
+    'Pressing Snap button moves the line to the vehicle pivot point. The line change of position is not saved. If you want to save the line, Use the Edit AB button where you can save the new position permanently. Snap works in Curve and AB Line but not in Contour.',
+  h_btnStanleyPure: 'Stanley or Pure Pursuit Steering Mode\n' +
+    '\n' +
+    'Select the mode you wish to use. Stanley uses the front of the vehicle to reference how quickly to steer to the line. The pivot just follows along trailing not on the line. Good for a swather or harvester, but not so good for attached tools. \n' +
+    'Pure Pursuit uses the pivot point to determine steering corrections and tries to correct heading and off track error to get on the line. The integral also varies heading to force the pivot to the line so on slopes or side draft it follows the line better by oversteering past the line. Each mode has its own setting, accessed by the steer settings button which is the green one showing the steering angles on the left lower part of the screen. ',
+  h_btnStartAgIO: 'Start the AgIO Application Button\n' +
+    '\n' +
+    'If AgIO is already running, button does nothing, but if AgIO is not running it will start it. AgIO is responsible for all serial and UDP input output for AgOpenGPS.',
+  h_btnStartSA: 'Steer Angle Calculator\n' +
+    '\n' +
+    'Function to calculate the real steering angle, drive steady in a circle slowly, click start, and it will\n' +
+    'show the angle when finished. The difference between left and right shows Ackerman error. Adjust Ackermann angle so left turn is the same as right turn.',
+  h_btnSteerAngleDown: 'Steer Angle Down Button\n' +
+    '\n' +
+    'Turns more to the left. Lowers the Free Drive steering angle.',
+  h_btnSteerAngleUp: 'Steer Angle Up Button\n' +
+    '\n' +
+    'Turns more to the right. Raises the Free Drive steering angle.',
+  h_btnTiltDown: 'Tilt the view Downward Button',
+  h_btnTiltUp: 'Tilt the view upward button',
+  h_btnTramDisplayMode: 'Tram Line Display Mode Button\n' +
+    '\n' +
+    'If there are tram lines active, you can select all trams or inner or outer or none visible. Trams are made by pressing field menu and then selecting tramlines.',
+  h_btnYouSkipEnable: 'U Turn Skip Enable\n' +
+    '\n' +
+    'Allows automatic looping based on number set in Row skips to do as a group of passes, then move on to next group automatically.',
+  h_btnZeroWAS: 'Wheel Angle Sensor Zero Button\n' +
+    '\n' +
+    'Allows the steering angle to be zero degrees when driving\n' +
+    'forward. This setting must be done and be zero degrees when\n' +
+    'driving straight ahead in order to be properly set. Wheel Angle\n' +
+    'Sensor (WAS) zero allows you to remove that non-zero steering\n' +
+    'angle so it is zero degrees. This is a very important setting and\n' +
+    'must be accurately set.',
+  h_btnZoomIn: 'Zoom in to see less field button',
+  h_btnZoomOut: 'Zoom out to see more field button',
+  h_hsbarAckerman: 'Ackerman Compensation Slider\n' +
+    '\n' +
+    'Ackermann steering geometry is a geometric arrangement of\n' +
+    'linkages in the steering of a vehicle designed to solve the problem\n' +
+    'of wheels on the inside and outside of a turn needing to trace out\n' +
+    'circles of different radius.\n' +
+    'The setting is based on reference of the right wheel where the left wheel angle is determined by multiplying the steering wheel angle by the percentage Ackermann is set to. \n' +
+    'Ackermann has no effect on steer angle when turning right, only left.\n' +
+    '\n' +
+    'Example. Ackermann is set to 80%. When turning to the left and the steer angle is 10 degrees, the corrected angle will be 8 degrees.\n',
+  h_hsbarCountsPerDegree: 'Counts Per Degree Slider\n' +
+    '\n' +
+    'Also known as CPD\n' +
+    'The A/D converter puts out -4000 to +4000 (8000 in total) levels\n' +
+    'as the Wheel Angle Sensor puts out 0 to 5v. To convert that into\n' +
+    'steer angle degrees - because we don’t visualize counts very well,\n' +
+    'we now divide those levels by counts per degree. So, when the\n' +
+    'CPD is increased, the wheels turn farther for each degree needed.\n' +
+    'When lowered, the wheels don’t turn as far. This is a critical setting, \n' +
+    'if the vehicle steers too far lower the CPD and vice versa.',
+  h_hsbarHeadingErrorGain: 'Stanley Heading Slider\n' +
+    '\n' +
+    'The slider affects how much opposition to distance setting\n' +
+    'there is by keeping the vehicle turning away from the line.\n' +
+    'It’s the winner of the two, heading and distance away that\n' +
+    'determines the length of time to get to the line. Ideal is to\n' +
+    'balance them so you get quickly to the line without going too far\n' +
+    'over the line or oscillating back and forth (too aggressive).',
+  h_hsbarHighSteerPWM: 'Maximum PWM Gain Slider\n' +
+    '\n' +
+    'Limits the total power deliver to steer motor or valve to prevent steering too violently.\n' +
+    'Initially set lower to prevent oscillation. If driving fast be sure to not turn too fast to prevent roll over.',
+  h_hsbarIntegral: 'Stanley Integral Slider\n' +
+    '\n' +
+    "Integral setting allows the distance error to keep adding up over time to help add steer angle when a normal distance and heading calculation won't bring the tractor to the line.\n" +
+    'Like on a sidehill or pulling heavy draft to one side. Too much integral will cause it to get too fast to the line and cross over it.\n' +
+    'Too low of a setting will take too long to get to the line.\n' +
+    'Better to set a bit lower or it will oscillate across line a lot.',
+  h_hsbarIntegralPurePursuit: 'Pure Pursuit Integral Slider\n' +
+    '\n' +
+    "Integral setting allows the distance error to keep adding up over time to help add steer angle when a normal distance and heading calculation won't bring the tractor to the line.\n" +
+    'Like on a sidehill or pulling heavy draft to one side. Too much integral will cause it to get too fast to the line and cross over it.\n' +
+    'Too low of a setting will take too long to get to the line.\n' +
+    'Better to set a bit lower or it will oscillate across line a lot.',
+  h_hsbarLookAhead: 'Look Ahead Slider\n' +
+    '\n' +
+    'How far ahead of the vehicle is the reference point. If point is close vehicle turns very quickly.\n' +
+    'Farther away the steering is more relaxed and takes longer to get to line. Use the Speed gain to set distance based on speed as it takes less steering when you go faster. But set lookahead first. \n' +
+    'Tune it at the speed you will most often be travelling. ',
+  h_hsbarLookAheadMult: 'Look Ahead Speed Gain Slider\n' +
+    '\n' +
+    'The faster you drive, the faster you get to the line. \n' +
+    "This slider sets how quickly the reference point moves away from you as your speed increases and reduces the steer angle so it doesn't turn as fast preventing going back and forth across the line.",
+  h_hsbarLowSteerPWM: 'Low Steer Angle PWM\n' +
+    '\n' +
+    'As the vehicle gets closer to the line, the gain is reduced linearly\n' +
+    'from the max value to the low value. This helps it overshoot the\n' +
+    'line when close, but provide rapid movement when further away.',
+  h_hsbarMaxSteerAngle: 'Max Steer Angle Slider\n' +
+    '\n' +
+    'The maximum left and right steer angle autosteer will provide. Initially a low setting here will help you not drive all over the place with wild steer angles. \n' +
+    'You do need a high value to steer around U Turns that are quite small and require a sharp turn. ',
+  h_hsbarMinPWM: 'Minimum PWM Sider\n' +
+    '\n' +
+    'Minimum PWM value is used to apply a minimum amount of\n' +
+    'power to overcome friction of the valve/motor. Too high and it will turn all the time, \n' +
+    'too low and there will be a delay as pwm increases before the steering happens. \n' +
+    'The more proportional gain, the more sensitive this setting.',
+  h_hsbarProportionalGain: 'Proportional Gain Slider\n' +
+    '\n' +
+    'The proportional gain is multiplied by the distance error then added to\n' +
+    'the minimum PWM value to generate the final output value. The\n' +
+    'higher this value the faster the motor will correct the steering.\n' +
+    'However, if it is too high, the steering will overshoot the line and\n' +
+    'then oversteer the other way again called oscillate. Too low of a value and it will\n' +
+    'either take too long or never get to the guidance line. A critical setting that \n' +
+    'takes some experimenting to see its effect. All 4 of these gain settings affect \n' +
+    'each other so set one and see the effect. ',
+  h_hsbarSideHillComp: 'Sidehill Compensation Slider\n' +
+    '\n' +
+    'Adds a static steer angle based on roll angle to turn the wheels to compensate for the side draft of hills. You can make the vehicle go above the line with this setting allowing the tool to follow better as well.',
+  h_hsbarStanleyGain: 'Stanley Distance Slider\n' +
+    '\n' +
+    'The slider works with distance. The more aggressive the\n' +
+    'faster it tries to steer towards the line with the risk of crossing\n' +
+    'over the line. The heading slider tries to dampen this effect.',
+  h_hsbarWasOffset: 'Wheel Angle Sensor Zero Slider\n' +
+    '\n' +
+    'Moving this slider changes the zero position for steering angle. Drive in free drive mode and adjust this so you are going straight out. \n' +
+    'This is a critical setting',
+  h_lblIntegral: 'AutoSteer Integral Value\n' +
+    '\n' +
+    'Display only. This value shows the amount of additional steering angle to bring the vehicle closer to the guidance line.',
+  h_lblLateralTurnTouch: 'Lateral Shift Touch\n' +
+    '\n' +
+    'Touching this area allows the vehicle to shift left or right to next guidance line. You can touch more then once and shift over multiple lines. Touching the other arrow allows you to reduce the number of shifts over.',
+  h_lblManualTurnCancelTouch: 'Manual Turn and Cancel Touch\n' +
+    '\n' +
+    'You can initiate a manual U Turn or cancel it if you are already in a manual turn. When driving in normal auto U Turn touching one of these jumps to the next line and turns around.',
+  h_lblSpeed: 'Speed Indicator\n' +
+    '\n' +
+    'Dual purpose label. Shows the speed of the vehicle and also tapping the value brings up the GPS Data form showing all the GPS information.',
+  h_lblSteerCircleTouch: 'Steer Information Indicator\n' +
+    '\n' +
+    'Graphic shows steering angle as well as the color shows auto steer status.....\n' +
+    '\n' +
+    'Purple - Steer module not connected.\n' +
+    'Red - Steer module connected, not enabled.\n' +
+    'Orange - Steer Module connected and enabled, steer switch is off\n' +
+    'Green - Connected, enabled, and auto steering. Fully functional.',
+  h_lblSwapDirectionCancel: 'This area shows the distance to the start of the next U Turn. There are normally 2 functions here. When not in a U Turn, touching this area allows you to now turn the opposite direction. If you are doing a U Turn then touching this area cancels the U Turn - so be careful and grab the wheel.',
+  h_lblVehicleDirectionResetTouch: 'Swap Direction Touch\n' +
+    '\n' +
+    "Touch here if the vehicle is pointing backwards while travelling forwards. Without dual heading you don't know if you are backing up or going forward. Backing up is position to position like going forward but 180 degrees is added to your heading to make it look like you are backing up. At times, like turning sharp when going slow the direction can get confused and this resets that direction. Drive forward and touch this area to tell AOG which way forward is. Can be touched at any time.",
+  h_lbludpWatchCounts: 'How many NMEA messages have been missed or too late from AgIO',
+  ha_btnAPoint: 'A Point\n' +
+    '\n' +
+    'This is the first point of the line. It is also used for the base point of A plus heading. \n' +
+    '\n' +
+    'Once A is touched, you can either touch B point or enter in the heading.',
+  ha_btnAddTime: 'Add Time\n' +
+    '\n' +
+    'Adds a time stamp to the current line name. Helps make the name unique as well.',
+  ha_btnBPoint: 'B Point\n' +
+    '\n' +
+    'Makes a line between the A point set and the B point. Heading of line is calculated. You can modify the line by entering a heading or by touching B as often as you want.',
+  ha_btnCancel: 'Cancel and Turn Off\n' +
+    '\n' +
+    'Exit the form and turn off the guidance mode. Existing lines are not deleted, it just turns them off in main display.',
+  ha_btnCancelCreate: 'Cancel and Return\n' +
+    '\n' +
+    'Cancels the current action and returns you back to the start.',
+  ha_btnDuplicate: 'Copy Line\n' +
+    '\n' +
+    'Makes a copy of the line selected in the List View. The name must remain unique. ',
+  ha_btnEnterContinue: 'Save and Continue',
+  ha_btnListDelete: 'List Delete\n\nSelect a line from the list, touch delete to remove the line.',
+  ha_btnListUse: 'Use Line and Exit\n\nUses the line selected in the list and exit. ',
+  ha_btnManual: 'Manual Entry\n' +
+    '\n' +
+    'Manual entry of A and B points by using Latitude and Longitude. Brings up another form. ',
+  ha_btnNewABLine: 'New Line\n' +
+    '\n' +
+    'Brings up the form to create a new line by AB or A plus heading or Manual Latitude and Longitude.',
+  ha_nudHeading: 'Heading Entry\n' +
+    '\n' +
+    'Enter a heading once the A Point has been set. Any number between 0 and 360 degrees.',
+  ha_textBox1: 'Line Name\n' +
+    '\n' +
+    'Edit and make the name of the line here. Keep names unique. Touching the Time button adds time to the description.',
+  hb_btnAdd: 'Add New Boundary\n' +
+    '\n' +
+    'Brings up the form to choose to either load a kml file for boundary or to Drive one. \n' +
+    '\n' +
+    'If no boundaries are made, the first one you make is the outer boundary.\n' +
+    '\n' +
+    'If there is an outer boundary already made, the rest made will be inner boundaries.\n' +
+    '\n' +
+    'Touch on the Drive through Yes or No button for that boundary to change.',
+  hb_btnAddPoint: 'Add Point\n' +
+    '\n' +
+    'Add a point at the current position based on offset. Nice to make long straight lines by marking corners only. \n' +
+    '\n' +
+    'You can record around corners, pause, hit Add point, drive and keep recording. Anything you want to do.',
+  hb_btnCancel: 'Cancel\n' +
+    '\n' +
+    'At any time or on any form you can cancel. As you make boundaries and do changes they are saved. Nothing is saved when cancelling or exiting.',
+  hb_btnDelete: 'Single Boundary Delete\n\nSelect a boundary in the list and delete it.',
+  hb_btnDeleteAll: 'All Boundaries Delete\n' +
+    '\n' +
+    'This button deletes all the boundaries. Careful - once gone they are gone.',
+  hb_btnDeleteLast: 'Delete Last Point Made\n' +
+    '\n' +
+    'Deletes the last point made. Keep touching to delete as many as you want.',
+  hb_btnDriveOrExt: 'Drive The Boundary\n' +
+    '\n' +
+    'Allows you to record the boundary as you drive. Button brings up the Boundary Player form to record points and where the points left or right of the center pivot point they are recorded.',
+  hb_btnGetKML: 'Make Boundary using KML\n' +
+    '\n' +
+    'Brings up the next form that allows you to load either a single boundary or multiple boundaries.',
+  hb_btnLeftRight: 'Mark Left or Right\n' +
+    '\n' +
+    'Button used to select the left or right side of vehicle for making boundary.\n' +
+    '\n' +
+    'You can also enter distance in the offset numeric box.',
+  hb_btnLoadBoundaryFromGE: 'Load Single Boundary From Google Earth\n' +
+    '\n' +
+    'Load a kml boundary that can either be the outer boundary or as inner boundaries. If there are no boundaries, it will be considered an outer boundary. If there already is a boundary, the boundary will be considered an inner boundary. ',
+  hb_btnLoadMultiBoundaryFromGE: 'Load Multi Boundary From Google Earth\n' +
+    '\n' +
+    'Load a kml boundary that has the first line as the outer boundary and the rest as inner boundaries. ',
+  hb_btnOpenGoogleEarth: 'Open Google Earth\n' +
+    '\n' +
+    'Opens Google Earth if installed. There, you can make and save kml files for boundaries.',
+  hb_btnPausePlay: 'Record Pause \n' +
+    '\n' +
+    'Touch to start recording, touch again to pause. While in pause you can touch add points or delete points, swap sides, change offset.',
+  hb_btnRestart: 'Restart Line\n\nDelete existing points and start over. ',
+  hb_btnStop: 'Stop Boundary\n' +
+    '\n' +
+    'Boundary is all done. This will connect the last point to the first point and exit.\n' +
+    '\n' +
+    'You need at least 5 points or it will just not make a boundary.',
+  hb_nudOffset: 'Offset From Pivot\n' +
+    '\n' +
+    'The offset to mark the boundary is measure from the center of the pivot point - usually between the driving wheels - to mark the boundary lines.\n' +
+    '\n' +
+    'It defaults to one half the tool width. Use the select sides button to move from left to right side.',
+  hc_ListViewVehicles: 'Vehicles List\n\nThe list of saved vehicles.',
+  hc_btnRemoveZeroOffset: 'Remove Roll Offset\n' +
+    '\n' +
+    'Removes any offset currently added to roll to show actual roll angle as mounted',
+  hc_btnResetIMU: 'Remove IMU from Display\n' +
+    '\n' +
+    'If you disconnect IMJ, you can remove all the values shown on the main display. Once you connect an imu to AgIO, it will show again automatically.',
+  hc_btnSendSteerConfigPGN: 'Send Changes to AutoSteer and Save\n' +
+    '\n' +
+    'If you make changes, be sure to send them and save them by touching send. If you do not, they will not be saved. if you want to cancel, just go to a different config page and return again. \n' +
+    '\n' +
+    "Don't forget to Send and Save by using this button.",
+  hc_btnVehicleDelete: 'Vehicle Delete Button\n' +
+    '\n' +
+    'Select a vehicle in the list, touch Delete Button to delete it.',
+  hc_btnVehicleLoad: 'Vehicle Load Button\n' +
+    '\n' +
+    'Select a vehicle in the list, touch Load Button to load it.',
+  hc_btnVehicleSave: 'Vehicle Save Button\n' +
+    '\n' +
+    'After entering a vehicle name in the textbox, touch Save Button to save it.',
+  hc_btnVehicleSaveAs: 'Vehicle Save As Button\n' +
+    '\n' +
+    'Click a vehicle in the list, then touch Save As Button to overwrite that vehicle with the current settings. Answer Yes to overwrite the chosen vehicle or No to do nothing.',
+  hc_btnZeroRoll: 'Zero Roll Value\n' +
+    '\n' +
+    'Add the negative of the current roll value displayed to show zero roll. Removes the sensor mounted roll angle error so when the vehicle is flat, the roll value shows zero.',
+  hc_cboxAutoSteerAuto: 'AutoSteer Manual or Automatic Engage mode.\n' +
+    '\n' +
+    'In manual mode, you must press the AutoSteer button to engage AutoSteer. Steer motor/Valve steer switch has no effect.\n' +
+    '\n' +
+    'In Auto Mode, when you engage the steer or valve steering switch, the AutoSteer button will automatically turn on.\n' +
+    '\n' +
+    'Be careful with Auto mode when travelling down the road. Always turn off or disconnect power to any autosteer mechanical device when commuting. ',
+  hc_cboxConv: 'A2D Convertor Input Configuration\n' +
+    '\n' +
+    'Select either Single or Differential input. most commonly it is single type input ground referenced. Oddly even the Differential is still ground referenced but seems to work with OEM style WAS.',
+  hc_cboxCurrentSensor: 'Current Sensor enable\n' +
+    '\n' +
+    'If using a current sensor enable this feature to stop autosteer by holding the wheel and detecting a high current use.',
+  hc_cboxDanfoss: 'Danfoss Valve\n' +
+    '\n' +
+    'If using the Danfoss style Udc valve, select this. The arduino sketch will then automatically use and send out the right values for the valve.',
+  hc_cboxDataInvertRoll: 'Invert Roll\n' +
+    '\n' +
+    'Roll to the right must be a positive value. If roll shows a negative value, touch Invert Roll to make it positive. \n' +
+    '\n' +
+    'A very important setting. See the picture on this form for clarity.',
+  hc_cboxEncoder: 'Steering Wheel Encoder\n' +
+    '\n' +
+    'Poorly named, but allows the detection of turning the steering wheel being turned by using a shaft sensor. This setting enables it. \n' +
+    '\n' +
+    'Additional setting is the counts. when the steer module counts that many detections, it turns off the steering drive.',
+  hc_cboxIsDualAsIMU: 'Use Dual Antenna As IMU\n' +
+    '\n' +
+    'Instead of using dual antenna as heading directly, use fix to fix single antenna for heading and smooth heading with dual antenna heading value.',
+  hc_cboxIsHydOn: 'Hydraulic Control Off On\n' +
+    '\n' +
+    'Enable hydraulic control of tool when entering and leaving the headland. ',
+  hc_cboxIsRTK: 'RTK Alarm\n' +
+    '\n' +
+    'Enabling this shows an alarm called Lost RTK on the main screen.',
+  hc_cboxIsRTK_KillAutoSteer: 'AutoSteer Off if RTK Alarm\n' +
+    '\n' +
+    'If RTK alarm is on, then enabling this turns off the AutoSteer when RTK is lost.',
+  hc_cboxIsReverseOn: 'Reverse Detect\n' +
+    '\n' +
+    'Show the vehicle backing up when enabled or screen spins 180 degrees and shows still going forward',
+  hc_cboxMachInvertRelays: 'Invert Controls\n' +
+    '\n' +
+    'If your controls are on instead of off, enable this to invert the control. ',
+  hc_cboxMotorDrive: 'Motor Driver Type\n' +
+    '\n' +
+    '2 Choices being Cytron and IBT2 so pick the one you are using.',
+  hc_cboxNumSections: 'Number of Sections\n' +
+    '\n' +
+    'Using the drop down, choose the number of sections your tool has. It uses the default section width value to fill in the section width for you. \n' +
+    'Generally set the default section width first, then the number of sections. You can now manually edit any section width if they are different by clicking on that particular section width spinner',
+  hc_cboxPressureSensor: 'Pressure Sensor Switch\n' +
+    '\n' +
+    'when using an oil pressure sensor, enable this feature.',
+  hc_cboxSectionResponse: 'Section Response Fast/Slow\n' +
+    '\n' +
+    'This selects how often section control is run per second. In fast mode it is one half the nmea speed and in slow mode it is half of that. \n' +
+    "If you have a slow computer, and section control is not super critical and speeds are slower, use the slow mode. If you find the sections aren't turning on fast enough, select fast mode. \n" +
+    'Section math is intense along with boundaries and headlands so this may help a slower tablet.',
+  hc_cboxSteerEnable: 'Steer Switch Style\n' +
+    '\n' +
+    '2 types of Switch. \n' +
+    '\n' +
+    'Button- Push and release turns Auto Steer On. Push and release again turns Auto Steer off.\n' +
+    '\n' +
+    'Switch - like a light switch style. Connect and Auto Steer is on, Disconnect and Auto Steer turns off. \n' +
+    '\n' +
+    'Note... Any type switch or button can be configured to do either method. The Switch setting is most common for steer motors that just push on a switch when engaged and then when released simply opens the switch again.\n' +
+    '\n' +
+    'The button setting is more common for hydraulic as you want pressure to disable steering, then just hit the button to enable again. ',
+  hc_cboxTramOnBackBuffer: 'Tram Tool Control\n' +
+    '\n' +
+    'Enable sending tram on off signal to seed runs for full tram control. ',
+  hc_chkDisplayDayNight: 'Auto Day Night automatically goes to night mode at sunset and day mode at sunrise',
+  hc_chkDisplayExtraGuides: 'Extra guidance lines beside the one you are following',
+  hc_chkDisplayFloor: 'Display the textured background on field surface or if off shows just a solid color',
+  hc_chkDisplayGrid: 'Display the grid on the field surface',
+  hc_chkDisplayKeyboard: 'Use the custom keyboard when entering a text type of entry',
+  hc_chkDisplayLightbar: 'The Graphic dots at top of screen showing distance away from the guidance line',
+  hc_chkDisplayLogNMEA: 'Log the incoming NMEA, stored in the fields directory\n' +
+    '\n' +
+    'Caution - Make a very big file quickly',
+  hc_chkDisplayPolygons: 'Display the individual polygons that make up the mapping',
+  hc_chkDisplaySky: 'Display the colorful sky in the background when in 3D',
+  hc_chkDisplaySpeedo: 'Display the Speedometer in top right corner',
+  hc_chkDisplayStartFullScreen: 'Full Screen on Start Up',
+  hc_chkInvertSteer: 'Invert Steer Motor Drive\n' +
+    '\n' +
+    'If the motor turns the wrong way in Drive Mode, enable the Invert Steer Motor setting so it turns the opposite way',
+  hc_chkInvertWAS: 'Invert Wheel Angle Sensor\n' +
+    '\n' +
+    'Turning to the right the WAS should be a positive angle. If it is not, Invert the WAS',
+  hc_chkSteerInvertRelays: 'Invert Steer Relay\n' +
+    '\n' +
+    'This controls only the relay for PWM2 pin. If you need Normally open or Normally Closed click the invert to have the opposite function of the relay.',
+  hc_hsbarFusion: 'IMU Fusion Balance\n' +
+    '\n' +
+    'As usual a setting at either extreme is bad. IMU balance sets how much IMU and how much fix to fix heading is used to determine a fused heading. \n' +
+    '\n' +
+    'The GPS is quite stable over a longer time period while the IMU is very stable short term but drifts to some funky angle over time. \n' +
+    '\n' +
+    'If too much IMU is set, then making sharp turns etc can take a long time to correct by the GPS and will cause steering to be in the wrong heading. Too much GPS and the heading will be noisy back and forth causing erratic steering.\n' +
+    '\n' +
+    'With that in mind, set the IMU so there is a little bit of heading noise to provide fairly smooth steering, and if you turn quickly, make sure the heading you are going right after the turn is the heading you are actually going. Compare the GPS heading and the Fused heading and see that they follow each other well. The GPS will be noisy, but the Fused will be quite steady in the middle of those noisy values.',
+  hc_lblUTurnLegDistance: 'Length of UTurn Legs\n' +
+    '\n' +
+    'Sets the amount of meters the legs of the uturn continue past and into the turn. Allows the vehicle to line up better to the next guidance line',
+  hc_lblUTurnSmoothing: 'UTurn Smoothing\n' +
+    '\n' +
+    'Removes the abrupt change of direction for Keyhole turns and smooths them out. Makes the turn easier to follow.',
+  hc_nudABLength: 'Length of AB Line\n' +
+    '\n' +
+    'Make sure line is long enough to reach from boundary edge to boundary edge and a little more. Twice as long as longest field dimension is easy.',
+  hc_nudAgeAlarm: 'Age of GPS Alarm\n\nSet how many seconds before the alarm occurs',
+  hc_nudCutoffSpeed: 'Section Cutoff Speed\n' +
+    '\n' +
+    'The lower limit of speed before the sections auto turn off. Below this setting, the sections will turn off. Prevents over application.',
+  hc_nudDefaultSectionWidth: 'Default Section Width\n' +
+    '\n' +
+    'Enter the default section width for all sections here. Selecting then the number of sections fills in individual sections with the default value. Now go ahead and edit any sections that need a different width then the default.',
+  hc_nudForwardComp: 'Forward Direction Compensation For Turns\n' +
+    '\n' +
+    'This is a difficult concept to describe, so there is a video about it on you tube called Reverse Compensation. But here goes in text.\n' +
+    '\n' +
+    'What you are doing is offsetting the effect that the antenna swings very quickly left or right when you initially turn the steering wheel. This tries to dampen that effect. It is very complex to eliminate. There is much less of this effect when going forward so best just to leave the setting as is. \n' +
+    '\n' +
+    'You can use the steering chart from the tools menu to see the effect. \n' +
+    '\n' +
+    'Would you like to see a YouTube video for more help?',
+  hc_nudGuidanceLookAhead: 'Guidance Line Acquire Distance\n' +
+    '\n' +
+    'How many seconds ahead should AOG look for the next guidance line to lock onto. The faster you drive, the farther it will look ahead. AOG will draw the next guidance line at this spot and you can hit autosteer button and will lock on.',
+  hc_nudHydLiftLookAhead: 'Hydraulic Look Ahead\n' +
+    '\n' +
+    'Time in seconds how far ahead the tool should begin to lower when entering the work area. Lift occurs when tool is completely out of the work area and in the headland.',
+  hc_nudLightbarCmPerPixel: 'Cross Track Distance per Pixel\n' +
+    '\n' +
+    'How many cm/inches represent each square dot on the light bar. Small values, the dots move very quickly, Too big and the dots hardly move. handy for manual steering.',
+  hc_nudLineWidth: 'Pixel Width of Lines Displayed\n' +
+    '\n' +
+    'How many pixels wide are the displayed lines. More pixels is wider displayed line. Valid from 1 to 8',
+  hc_nudLookAheadOff: 'Time to shut sections off before getting to the applied region. ',
+  hc_nudLookAheadOn: 'Time to turn on the section early before getting to the unapplied area. ',
+  hc_nudLowerTime: 'Lower Time\n' +
+    '\n' +
+    'How long in seconds the hydraulic control should remain on for lowering tool.',
+  hc_nudMaxCounts: 'Steer Counts Trigger\n' +
+    '\n' +
+    'When this number of detections are made it will disable the auto steer.\n' +
+    '\n' +
+    'Depending on sensor used the value can be either turn counts, oil pressure in Bar, and current in Amps.',
+  hc_nudMinCoverage: 'Minumum Coverage Percent\n' +
+    '\n' +
+    'Based on per section, how much of the area ahead needs application in order to turn on or off the section. \n' +
+    'If set to 100, section never turns off until all area is applied. \n' +
+    'If set to 50, if half the area is already applied ahead of section, the section will turn off. ',
+  hc_nudMinFixStepDistance: 'Step distance for Heading Calculation\n' +
+    '\n' +
+    'Heading is determined by taking 2 points and calculating an angle. The slower you go, the more variation side to side there is, more noise, etc make the heading quite unstable to just go from last point to current point. OK when going fast. AOG remembers several points back in time for this purpose. The Step Distance is how far back in that history of points do you want to use to calculate the heading.\n' +
+    '\n' +
+    'A long step distance provides quite a stable reading BUT there is delay and sluggish for determining when the vehicle turns.\n' +
+    '\n' +
+    'A very short distance reacts very quickly but is also jumping around and more noisy. \n' +
+    '\n' +
+    'This is whee the IMU will help augment the short step distance with an IMU heading to give a stable and quick response heading. ',
+  hc_nudMinimumFrameTime: 'Minimum Frame Time\n' +
+    '\n' +
+    'Set in milliseconds. If GPS is 10 hz then a single update takes 100 msec between new position updates. In this case the elapsed time would be zero since a new one arrives every 100 msec. \n' +
+    '\n' +
+    'If you set it to 70 then the elapsed time would wait for another 70 msec - or 170 msec total - before a missed update would occur. These missed updates get counted and show up by the AGIO button on the left side. A few misses happen because windows is busy, or bringing up the Config settings because Windows is too busy to read every update quickly. This is normal.\n' +
+    '\n' +
+    'But, if just driving along and misses are counting up, there is a problem. Something is taking too long. ',
+  hc_nudOffset: 'Tool Offset\n' +
+    '\n' +
+    'Positive value moves the tool to the right, negative value moves the tool left',
+  hc_nudOverlap: 'Distance Overlap or Gap\n' +
+    '\n' +
+    'Positive value indicates overlap, negative indicates gap. Tool width remains the same however the guidance lines are adjusted accordingly. ',
+  hc_nudRaiseTime: 'Raise Time\n' +
+    '\n' +
+    'How long in seconds the hydraulic control should remain on for lifting tool.',
+  hc_nudReverseComp: 'Reverse Direction Compensation For Turns\n' +
+    '\n' +
+    'This is a difficult concept to describe, so there is a video about it on you tube called Reverse Compensation. But here goes in text.\n' +
+    '\n' +
+    'What you are doing is offsetting the effect that the antenna swings very quickly left or right when you initially turn the steering wheel. This tries to dampen that effect. It is very complex to eliminate.\n' +
+    '\n' +
+    'The effect is much greater in reverse because the antenna based on direction is behind the antenna. Think of a loader bucket on a tractor and the path it makes.  \n' +
+    '\n' +
+    'You can use the steering chart from the tools menu to see the effect of changing settings, but is quite difficult to know if helping or making it worse. \n' +
+    '\n' +
+    'Would you like to see a YouTube video for more help?',
+  hc_nudSectionWidth: 'Section Width Entry\n' +
+    '\n' +
+    'Enter the width of the section in cm/inches. All the section widths added together become the tool width.',
+  hc_nudSnapDistance: 'Nudge Distance\n' +
+    '\n' +
+    'Distance to move guidance line over, used in the Edit AB form',
+  hc_nudStartSpeed: 'Start Speed\n' +
+    '\n' +
+    'Speed to reach before using every position to calculate heading. Below this value you must travel about a meter before position and heading are updated on the screen.\n' +
+    '\n' +
+    'This is important when going slow, backing up and turning etc. to know where you are, the heading you are going, and whether or not you are in reverse. \n' +
+    '\n' +
+    'A higher setting like at least 1.5 to 2 allows for a much more reliable determination of reverse and heading. ',
+  hc_nudTramWidth: 'Tram Width\n' +
+    '\n' +
+    'Usually the width of your sprayer, but is the width of the spacing between tramlines',
+  hc_nudTurnDistanceFromBoundary: 'Turn Distance from Boundary\n' +
+    '\n' +
+    'Distance from apex of turn to the boundary. The closest distance the vehicle will pass by the boundary. Ensure vehicle and 1/2 tool width does not cross over boundary.',
+  hc_nudTurnOffDelay: 'Time to keep sections going after applied area says they should turn off. ',
+  hc_pboxSendSteer: 'Settings have Changed Graphic\n' +
+    '\n' +
+    'You have made a change on this settings page when this graphic shows up. Now be sure to save and send your changes - or nothing will happen and changes will be lost.',
+  hc_rbtnDisplayImperial: 'Set Units to Imperial',
+  hc_rbtnDisplayMetric: 'Set Units to Metric',
+  hc_rbtnHeadingFix: 'Fix to Fix Heading Type',
+  hc_rbtnHeadingGPS: 'VTG Sentence Heading Type',
+  hc_rbtnHeadingHDT: 'Dual Antenna Heading Type',
+  hc_rbtnTramInnerOuter: 'Tram Tool positioning\n' +
+    '\n' +
+    'Select where the tool will end up when making a pass on the tram line. This is decided if you are odd or even number of passes of seeding to get to the next tram line. ',
+  hc_tboxVehicleNameSave: 'Name of new vehicle to be saved\n' +
+    '\n' +
+    'Enter the new vehicle name and touch the Save button',
+  hcur_btnAPoint: 'A Point\n\nThe start of the Curve Line. ',
+  hcur_btnBPoint: 'B Point\n\nThe end of the Curve Line.',
+  hcur_btnPausePlay: 'Pause Rec\n' +
+    '\n' +
+    'Pause the creation of points, continue recording points if paused.\n' +
+    '\n' +
+    'This is really useful if you want a straighter line instead of recording all the points. The line between the pauses will be a straight line. \n' +
+    '\n' +
+    'After saving the line, a small amount of smoothing is also applied. ',
+  hd_btnCancelTouch: 'Cancel Touch Points\n' +
+    '\n' +
+    'Delete any points touched on the line and start again. \n' +
+    '\n' +
+    'If you touch again after touching second point, it will start selecting the first point again.',
+  hd_btnDeleteABLine: 'Delete AB Line\n\nDelete the selected AB Line',
+  hd_btnDeleteCurve: 'Delete Curve\n\nDelete the selected curve.',
+  hd_btnDrawSections: 'Draw Sections\n' +
+    '\n' +
+    'Draw the section mapping on the field background for reference.',
+  hd_btnFlipOffset: 'Flip Offset\n' +
+    '\n' +
+    'Flip the offset to the other side of line. Use before creating the curve',
+  hd_btnMakeABLine: 'Make AB Line\n' +
+    '\n' +
+    'Once 2 points are selected, and distance from boundary set, make a new AB Line guidance line. You can edit the name in the textbox.',
+  hd_btnMakeBoundaryCurve: 'Make Boundary Contour\n' +
+    '\n' +
+    'Creates a guidance line around the whole field that is set in distance numeric entry. Usually is one half tool width away.',
+  hd_btnMakeCurve: 'Make Curve\n' +
+    '\n' +
+    'Once 2 points are selected, and distance from boundary set, make a new Curve guidance line. You can edit the name in the textbox.',
+  hd_btnSelectABLine: 'Select AB Line\n' +
+    '\n' +
+    'Keep touching to cycle thru the lines to select the one you want.',
+  hd_btnSelectCurve: 'Select Curve\n' +
+    '\n' +
+    'Keep touching to cycle thru the lines to select the one you want.',
+  hd_nudDistance: 'Distance From Boundary\n' +
+    '\n' +
+    'Enter the distance left or right from the line created by the 2 points. Defaults to 1 half the tool width.',
+  hd_oglSelf: 'Boundary Display\n' +
+    '\n' +
+    'Touch 2 points on the boundary to make a line. Touch Create Curve or Create AB Line to make the line. Edit the name. ',
+  hd_tboxNameLine: 'Edit Line\n\nTouch to edit the line to rename the default. ',
+  he_btnNoSave: 'Save For Now\n' +
+    '\n' +
+    'Line changes not saved with the field, they are lost when loading the field again. But the changes are in effect',
+  he_btnOK: 'Save and Exit\n\nChanges are saved with the field and exit the form. ',
+  hh_btnDeletePoints: 'Delete Points on Line\n' +
+    '\n' +
+    'First select 2 points on the line to delete all the points for.\n' +
+    '\n' +
+    'Touch Delete Button.\n' +
+    '\n' +
+    'This removes all the points between the selected 2 points and makes a straight line. ',
+  hh_btnExit: 'Exit\n\nExit the form and set the headland On.',
+  hh_btnMakeFixedHeadland: 'Add Distance to Headland\n' +
+    '\n' +
+    'Adds the distance entered in the numeric entry to the existing headland.',
+  hh_btnReset: 'Reset Headland\n' +
+    '\n' +
+    'Puts the headland back to the boundary, resetting it to 0 distance.',
+  hh_btnSetDistance: 'Add Distance\n' +
+    '\n' +
+    'Adds the distance set in the numeric to the line selected by the 2 points.',
+  hh_btnTurnOffHeadland: 'Headland Off\n\nShuts off the headland completely. ',
+  hh_cboxIsSectionControlled: 'Sections Control In Headland\n' +
+    '\n' +
+    'Enable of disable the turning off of sections within the headland.',
+  hh_cboxToolWidths: 'Tool Widths\n' +
+    '\n' +
+    'Use the pulldown to set how many tool widths in from the boundary you want the headland to be. \n' +
+    '\n' +
+    'If you select it again, it will remove the previous headland and make the new one.',
+  hh_nudDistance: 'Distance Entry\n' +
+    '\n' +
+    'Distance entered will be added to the existing headland distance. Press the Enter Distance button to add it.',
+  hh_nudSetDistance: 'Selected Distance Move\n' +
+    '\n' +
+    'Select 2 points on the headland line you want to move independently\n' +
+    '\n' +
+    'Enter the distance to move the segment - can be positive or negative.',
+  ht_btnAdjHalfToolWidth: 'Move Reference Half Tool Width\n' +
+    '\n' +
+    'Moves the reference line one half tool width left or right.',
+  ht_btnCancel: 'Tram Off\n\nCancel and delete everything. Turn the tram off',
+  ht_btnLeftRightNudge: 'Nudge Reference Line\n\nNudge reference line by amount shown',
+  ht_btnSave: 'Save and Exit\n\nSave and activate the Tram lines. Exit the setup form.',
+  ht_btnSwapAB: 'Swap A to B\n' +
+    '\n' +
+    'Swaps the order of the line so right is left. \n' +
+    '\n' +
+    'This is important as tram lines are made on the right side of the line counting positive. ',
+  ht_nudPasses: 'Tram Passes\n' +
+    '\n' +
+    'Enter the number of tram passes or use the up down arrows to change the number',
+  v_AboutIntro: 'https://www.youtube.com/watch?v=iN2cZ8avHag',
+  v_RecordedPathForm: 'https://www.youtube.com/watch?v=fE3TPRIRSFg',
+  v_SteerSettingsForm: 'https://www.youtube.com/watch?v=3SdvYgx8HHc'
+}
